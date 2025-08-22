@@ -17,6 +17,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | [0189-rotate-array](https://github.com/aliza-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aliza-dev/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aliza-dev/LeetCode/tree/master/0344-reverse-string) |
+| [3195-separate-black-and-white-balls](https://github.com/aliza-dev/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,9 +26,14 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/aliza-dev/LeetCode/tree/master/0344-reverse-string) |
+| [3195-separate-black-and-white-balls](https://github.com/aliza-dev/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aliza-dev/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aliza-dev/LeetCode/tree/master/0189-rotate-array) |
+## Greedy
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/aliza-dev/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
