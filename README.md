@@ -6,6 +6,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aliza-dev/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/aliza-dev/LeetCode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aliza-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aliza-dev/LeetCode/tree/master/0189-rotate-array) |
@@ -21,6 +22,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aliza-dev/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aliza-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
