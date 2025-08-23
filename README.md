@@ -44,4 +44,8 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 |  |
 | ------- |
 | [3195-separate-black-and-white-balls](https://github.com/aliza-dev/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/aliza-dev/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
