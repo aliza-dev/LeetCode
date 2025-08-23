@@ -48,4 +48,5 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/aliza-dev/LeetCode/tree/master/0595-big-countries) |
+| [1908-recyclable-and-low-fat-products](https://github.com/aliza-dev/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
