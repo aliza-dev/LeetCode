@@ -8,6 +8,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | ------- |
 | [0035-search-insert-position](https://github.com/aliza-dev/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/aliza-dev/LeetCode/tree/master/0066-plus-one) |
+| [0137-single-number-ii](https://github.com/aliza-dev/LeetCode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/aliza-dev/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aliza-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aliza-dev/LeetCode/tree/master/0189-rotate-array) |
@@ -55,4 +56,8 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | [1827-invalid-tweets](https://github.com/aliza-dev/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/aliza-dev/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2024-calculate-special-bonus](https://github.com/aliza-dev/LeetCode/tree/master/2024-calculate-special-bonus) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/aliza-dev/LeetCode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
