@@ -8,6 +8,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | ------- |
 | [0035-search-insert-position](https://github.com/aliza-dev/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/aliza-dev/LeetCode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aliza-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/aliza-dev/LeetCode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/aliza-dev/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aliza-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -67,4 +68,8 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/aliza-dev/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aliza-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
