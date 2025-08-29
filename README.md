@@ -52,6 +52,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/aliza-dev/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/aliza-dev/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/aliza-dev/LeetCode/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/aliza-dev/LeetCode/tree/master/1258-article-views-i) |
