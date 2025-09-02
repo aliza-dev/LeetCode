@@ -18,6 +18,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | [0745-find-smallest-letter-greater-than-target](https://github.com/aliza-dev/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/aliza-dev/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aliza-dev/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/aliza-dev/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/aliza-dev/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
