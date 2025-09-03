@@ -16,7 +16,7 @@ class Solution:
             if count[i]<0:
                 return False
         for val in count.values():
-            if val == 0:
-                return True
-        return False
+            if val != 0:
+                return False
+        return True
             
