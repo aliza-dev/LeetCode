@@ -15,6 +15,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aliza-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aliza-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aliza-dev/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/aliza-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/aliza-dev/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/aliza-dev/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aliza-dev/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -29,6 +30,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | [0189-rotate-array](https://github.com/aliza-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aliza-dev/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aliza-dev/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/aliza-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [3195-separate-black-and-white-balls](https://github.com/aliza-dev/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -36,6 +38,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | [0035-search-insert-position](https://github.com/aliza-dev/LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/aliza-dev/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aliza-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/aliza-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/aliza-dev/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/aliza-dev/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aliza-dev/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -79,4 +82,12 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aliza-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/aliza-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/aliza-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
