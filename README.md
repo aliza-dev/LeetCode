@@ -8,6 +8,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aliza-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/aliza-dev/LeetCode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/aliza-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/aliza-dev/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aliza-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/aliza-dev/LeetCode/tree/master/0137-single-number-ii) |
@@ -45,6 +46,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aliza-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/aliza-dev/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aliza-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aliza-dev/LeetCode/tree/master/0344-reverse-string) |
@@ -86,11 +88,13 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aliza-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/aliza-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aliza-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aliza-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/aliza-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aliza-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
