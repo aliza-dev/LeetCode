@@ -6,6 +6,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aliza-dev/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aliza-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/aliza-dev/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/aliza-dev/LeetCode/tree/master/0049-group-anagrams) |
@@ -88,6 +89,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aliza-dev/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/aliza-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/aliza-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aliza-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
