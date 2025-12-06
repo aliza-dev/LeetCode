@@ -24,6 +24,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | [0882-peak-index-in-a-mountain-array](https://github.com/aliza-dev/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aliza-dev/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/aliza-dev/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aliza-dev/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | [0125-valid-palindrome](https://github.com/aliza-dev/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aliza-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aliza-dev/LeetCode/tree/master/0344-reverse-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aliza-dev/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/aliza-dev/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Math
 |  |
@@ -104,4 +106,8 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | [0049-group-anagrams](https://github.com/aliza-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/aliza-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aliza-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aliza-dev/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
