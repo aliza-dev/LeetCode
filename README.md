@@ -27,6 +27,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aliza-dev/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/aliza-dev/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/aliza-dev/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/aliza-dev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aliza-dev/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
@@ -116,5 +117,6 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/aliza-dev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aliza-dev/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
