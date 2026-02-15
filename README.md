@@ -24,6 +24,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | [0882-peak-index-in-a-mountain-array](https://github.com/aliza-dev/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aliza-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aliza-dev/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/aliza-dev/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aliza-dev/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/aliza-dev/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/aliza-dev/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -68,6 +69,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | [0066-plus-one](https://github.com/aliza-dev/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aliza-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/aliza-dev/LeetCode/tree/master/0441-arranging-coins) |
+| [1512-number-of-good-pairs](https://github.com/aliza-dev/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | [0049-group-anagrams](https://github.com/aliza-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/aliza-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aliza-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1512-number-of-good-pairs](https://github.com/aliza-dev/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -119,4 +122,8 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | ------- |
 | [1929-concatenation-of-array](https://github.com/aliza-dev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aliza-dev/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/aliza-dev/LeetCode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
