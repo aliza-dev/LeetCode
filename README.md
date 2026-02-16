@@ -23,6 +23,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | [0792-binary-search](https://github.com/aliza-dev/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aliza-dev/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aliza-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/aliza-dev/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aliza-dev/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/aliza-dev/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aliza-dev/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
