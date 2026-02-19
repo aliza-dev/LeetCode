@@ -63,6 +63,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | [0125-valid-palindrome](https://github.com/aliza-dev/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aliza-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aliza-dev/LeetCode/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/aliza-dev/LeetCode/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aliza-dev/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/aliza-dev/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Math
@@ -110,6 +111,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | [0049-group-anagrams](https://github.com/aliza-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/aliza-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aliza-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0771-jewels-and-stones](https://github.com/aliza-dev/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/aliza-dev/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
