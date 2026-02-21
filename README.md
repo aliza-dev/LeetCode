@@ -44,6 +44,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | [0344-reverse-string](https://github.com/aliza-dev/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/aliza-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/aliza-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/aliza-dev/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [3195-separate-black-and-white-balls](https://github.com/aliza-dev/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -64,6 +65,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | [0242-valid-anagram](https://github.com/aliza-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aliza-dev/LeetCode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/aliza-dev/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1768-merge-strings-alternately](https://github.com/aliza-dev/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aliza-dev/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/aliza-dev/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Math
