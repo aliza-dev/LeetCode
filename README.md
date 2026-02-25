@@ -63,6 +63,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | ------- |
 | [0049-group-anagrams](https://github.com/aliza-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/aliza-dev/LeetCode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/aliza-dev/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aliza-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aliza-dev/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aliza-dev/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -116,6 +117,7 @@ A repository of my solutions and thought processes for Data Structures &amp; Alg
 | ------- |
 | [0001-two-sum](https://github.com/aliza-dev/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/aliza-dev/LeetCode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/aliza-dev/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aliza-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aliza-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/aliza-dev/LeetCode/tree/master/0771-jewels-and-stones) |
